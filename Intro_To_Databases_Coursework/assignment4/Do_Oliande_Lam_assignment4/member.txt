@@ -1,0 +1,3 @@
+STUDENT ID:43671918, NAME:Thanh Do, E-MAIL:thanhhd@uci.edu
+STUDENT ID:58939588, NAME:Christopher Lam, E-MAIL:lamcy1@uci.edu
+STUDENT ID:13729240, NAME:Bryan Oliande, E-MAIL:boliande@uci.edu
